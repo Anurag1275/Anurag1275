@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Anurag Sharma 
 - 👀 I’m interested in Open Source.
 - 🌱 I’m currently learning C++.
-- 💞️ I’m looking to collaborate on Open Source and AI /ML.
+- 💞️ I’m looking to collaborate on topics like Open Source, CS fundamentals and AI /ML.
 - 📫 Reach me out at anurags1274@gmail.com
 - 😄 Pronouns: He/Him
 
